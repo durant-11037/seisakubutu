@@ -54,7 +54,7 @@ void Shirobi(void) {
 			}
 			
 		}
-	}else if (i < x) {
+	}else if (z < x) {
 		if (i == 2) {
 			printf("1,1 ¨ 2 ƒtƒ@ƒ“ƒuƒ‹\n");
 		}
